@@ -17,6 +17,41 @@
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-OSS-0f172a?style=for-the-badge&logo=hacktoberfest&logoColor=#ff6f61)
 
 ---
+## 🌟 GitHub Stars Program — Your Support Matters!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/465db80e-83a8-4607-840d-d7f2239e15cf" alt="GitHub Stars Nomination" width="400"/>
+</p>
+
+<h3 align="center">🌟 Nominate Me for the GitHub Stars Program! 🌟</h3>
+
+<p align="center">
+  If Elixpo, my Hacktoberfest work, or Google Developer Groups activities have helped you on your open-source or CS journey, I’d be honored by your nomination.<br>
+  <strong>Your support inspires me and helps grow our community!</strong>
+</p>
+
+
+
+#### **How to Nominate (Takes < 20 seconds):**
+
+1. 👉 Visit [stars.github.com/nominate](https://stars.github.com/nominate/)
+2. 🔑 Sign in with your GitHub account
+3. ✍️ **Enter my GitHub username: <code>Circuit-Overtime</code>**
+4. 💬 Add a short, honest note about how I’ve supported you.
+
+---
+
+<p align="center">
+  <a href="https://stars.github.com/nominate/">
+    <img src="https://img.shields.io/badge/Nominate%20Me-GitHub%20Stars-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Nominate for GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Thank you for helping amplify open source and supporting our mission! Every nomination makes a difference. 💖</em>
+</p>
+
+
+
 
 ## 🚀 Our Mission & Vision
 
@@ -36,7 +71,7 @@ At Elixpo, we are dedicated to building a future where AI is **open, ethical, an
 
 **Hacktoberfest is live!** We enthusiastically welcome contributions from developers around the world.
 
-- **Find Issues:** We have curated issues perfect for new contributors.Look for them which is tagged with `hacktoberfest` in our [issue tracker](https://github.com/Circuit-Overtime/elixpo_chapter/issues).
+- **Find Issues:** We have curated issues perfect for new contributors.Look for them which is tagged with `hacktoberfest accepted` , `hacktoberfest2025` in our [issue tracker](https://github.com/Circuit-Overtime/elixpo_chapter/issues).
 - **Read the Guidelines:** Before submitting a PR, please review our [**Code of Conduct**](./CODE_OF_CONDUCT.md) and [**Contributing Guidelines**](./CONTRIBUTING.md).
 
 Let's build something amazing together!
@@ -57,19 +92,14 @@ This monorepo hosts a diverse collection of projects, each with its own developm
 | **Elixpo Sketch**    | A real-time, WYSIWYG collaborative canvas and editor.                                           | `sketch.elixpo`                                                                                                                                           |
 | **Elixpo Verse**     | A stylish wallpaper with a live, animated clock.                                                | `verse.elixpo`                                                                                                                                            |
 | **Text-Emoji**       | Text-to-emoji converter using a fine-tuned T5-Small model.                                      | [Hugging Face](https://huggingface.co/Elixpo/Emoji-Contextual-Translator)                                                                                 |
-| **LlamaMedicine**    | A Llama model fine-tuned for medicine-related tasks.                                            | [Ollama](https://ollama.com/Elixpo/LlamaMedicine)                                                                                                         |
-| **Pollinations UI**  | An improved user interface for the Pollinations project website.                                | `polli.elixpo`                                                                                                                                            |
-| **Elixpo Portfolio** | The personal portfolio of the project founder.                                                  | `elixpo`                                                                                                                                                  |
-| **Inkflow**          | A minimalist canvas developed by [**Ez-Vivek**](https://github.com/ez-vivek).                   | `inkflow`                                                                                                                                                 |
-| **Fing & Fing-UI**   | A vibe-coding platform and React UI library by [**Subhro Koley**](https://github.com/IgYaHiko). | `igyahiko.fing`, `igyahiko.fing-ui`                                                                                                                                         |
-| **CortexOne**        | An AI-powered desktop application built with Electron, React, and TypeScript.                   | `itachi.cortexOne`                                                                                                                                        |
-| **Vision**        | An AI-powered desktop application built with Electron, React, and TypeScript.                   | `igyahiko.vision`                                                                                                                                        |
-| **Memory-Arc**        | An application to use LSTM to track conversations with an NLP model.                   | `itachi.memory-arc`                                                                                                                                        |
+| **LlamaMedicine**    | A Llama model fine-tuned for medicine-related tasks.                                            | [Ollama](https://ollama.com/Elixpo/LlamaMedicine)                                                                                                         |                                             
+|**Elixpo Portfolio** | The personal portfolio of the project founder.                                                  | `elixpo`                                                                                                                                                  |
+| **Inkflow**          | A minimalist canvas developed by [**Ez-Vivek**](https://github.com/ez-vivek).                   | `inkflow`                                                                                                                        
 
 ## 👑 Key Achievements
 
-- **`22+` Open Source Projects** successfully built and deployed.
-- **`20+` Global Contributors** have shaped the Elixpo ecosystem.
+- **`10+` Open Source Projects** successfully built and deployed.
+- **`35+` Global Contributors** have shaped the Elixpo ecosystem.
 - **`20+` Hackathons** participated in, fostering innovation and rapid development.
 - **Featured in Major Programs** like **GSSOC**, **Pollinations.AI**, and **OSCI**.
 - **Recognized by MS Startup Foundations** with funding in 2024.
@@ -178,6 +208,8 @@ At Elixpo_Chapter, we are dedicated to shaping a future where projects are:
 - **Community-Driven**: Our platform thrives on collaboration, inviting developers, creators, and enthusiasts to contribute and innovate together.
 - **Interconnected**: We’re building an ecosystem where AI tools and services integrate seamlessly, enabling composable and synergistic solutions.
 - **Continuously Evolving**: We embrace rapid advancements in AI, adapting and improving while upholding our core values of openness and accessibility.
+- **A Platform for Learning**: We are more than just tools; we are a learning ecosystem. We are committed to being a welcoming space for new developers, empowering contributors of all skill levels to learn, grow, and teach others.
+- **Prioritizing the Developer Experience**: We put the developer experience at the forefront of our work. Our tools are built to be flexible, well-documented, and a joy to use, empowering developers to build, test, and deploy with confidence.
 
 Our mission is to advance AI for the benefit of all—respecting ethical standards, fostering responsible innovation, and building a collaborative community. Join us in making AI open, ethical, and impactful for everyone.
 
