@@ -13,9 +13,11 @@ A huge thank you to all the amazing people who have contributed to this project!
 - AsHim Shrestha <ashimsth89@gmail.com>
 - AsyncScripter <132608999+IgYaHiko@users.noreply.github.com>
 - Ayushman Bhattacharya <74301576+Circuit-Overtime@users.noreply.github.com>
+- Ayushman Bhattacharya <ayushbhatt633@gmail.com>
 - CSE-Anwesha <anweshachakraborty36@gmail.com>
 - Circuit-Overtime <ayushbhat633@gmail.com>
 - Circuit-Overtime <ayushbhatt633@gmail.com>
+- Circuit-Overtime <ubuntu@ip-172-31-1-3.ec2.internal>
 - Deep Saha <ideepsaha25@gmail.com>
 - Deepak. <seadeepie@gmail.com>
 - Dipanjan Sadhukhan <dipanjansadhukhan123@gmail.com>
@@ -36,6 +38,7 @@ A huge thank you to all the amazing people who have contributed to this project!
 - Sahil Shingate <sahilshingate0@gmail.com>
 - Saurabh Singh <sureshsingh09120@gmail.com>
 - Suraj kalidas patil <suraj@Surajs-MacBook-Pro.local>
+- Ubuntu <ubuntu@ip-172-31-1-3.ec2.internal>
 - Vaibhav Sharma <vaibhavsharma42011@gmail.com>
 - Vivek Yadav <151813246+ez-vivek@users.noreply.github.com>
 - Vivek Yadav <vivektalent200@gmail.com>
